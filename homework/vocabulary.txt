@@ -1,0 +1,900 @@
+1	environment		환경		16	present		"현재, 출석한, 제출하다"	
+2	company		회사		17	draw		그리다. 뽑다	
+3	government		"정부, 정치"		18	lose		"잃어버리다, 지다"	
+4	face		얼굴		19	provide		제공(공급)하다.	
+5	race		"경주, 인종"		20	allow		허락하다.	
+6	plant		"식물, 식물을 심다"		21	consider		"생각하다, 여기다"	
+7	fire		"화재, 발사하다"		22	realize		알다	
+8	matter		"문제, 중요하다"		23	mean		"의미하다, 비천한"	
+9	state		"상태, 국가, 말하다"		24	patient		인내심 있는. 환자	
+10	cause		"원인, 야기하다"		25	ancient		고대의	
+11	reason		"이유, 이성, "		26	individual		"개인의, 개인"	
+12	concern		"걱정, 관련되다"		27	positive		"긍정적인, 적극적인"	
+13	bear		"곰, 참다, 낳다"		28	genetic		유전의	
+14	raise		"들어올리다, 모금하다"		29	likely		할 것 같은	
+15	subject		주제. 과목		30	still		"여전히, 움직이지 않는"	
+1	planet		"행성, 지구"		16	relax		쉬다. 진정하다. 	
+2	article		기사. 물품		17	suppose		"추측, 가정(하다)"	
+3	education		교육		18	require		요구(하다).	
+4	purpose		"목적, 의도"		19	affect		영향을 미치다	
+5	arm		"무기, 무장하다"		20	add		더하다. 덧붙여 말하다.	
+6	object		물체. 대상		21	involve		포함하다. 참여시키다	
+7	amount		양		22	prevent		막다. 못하게 하다.	
+8	rest		"나머지, 휴식(하다)"		23	fine		"좋은, 벌금"	
+9	process		"과정, 처리하다"		24	material		"물질, 재료. 물질의 "	
+10	research		"연구, 연구하다."		25	various		다양한	
+11	respect		존경(하다). 관점		26	normal		정상적인	
+12	influence		"영향(력), (을 미치다)."		27	unique		"독특한, "	
+13	deal		"거래, 처리(하다)"		28	creative		창조적인	
+14	notice		"알아차리다, 공고"		29	negative		부정적인	
+15	support		"지지(하다),부양(하다)"		30	eventually		"마침내, 궁극적으로"	
+1	generation		세대		16	treat		"대우(하다),치료(하다)"	
+2	population		인구		17	describe		묘사(기술)하다.	
+3	industry		"산업, 근면"		18	suggest		제안하다	
+4	career		"경력, 직업"		19	accept		수락하다	
+5	opportunity		기회		20	achieve		"획득하다, 이루다"	
+6	behavior		태도		21	avoid		피하다. 막다.	
+7	reality		현실		22	remain		남아있다. 이다	
+8	tear		"눈물, 찢다"		23	reduce		줄이다. 감소하다.	
+9	issue		"문제, 발행(하다)"		24	male/female		남성(의)/여성(의)	
+10	detail		"세부사항, 자세히 열거하다"		25	essential		"중요한, 필수적인것"	
+11	limit		"한계, 제한하다"		26	tiny		작은	
+12	challenge		도전(하다)		27	recently		최근의	
+13	advance		진보(하다)		28	particular		"특별한, "	
+14	benefit		이익(을 주다)		29	similar		비슷한	
+15	cure		치료(하다)		30	besides		"게다가, 외에"	
+1	expert		전문가		16	perform		"공연, 수행(하다)"	
+2	species		(생물의) 종		17	occur		"생기다, "	
+3	appearance		"외모, 출현"		18	depend		"의지하다, 기대다"	
+4	character		"성격, 특징, 글자"		19	belong		"속하다, 소유이다"	
+5	quality		자질(특성)		20	contain		포함하다	
+6	resource		자원		21	suffer		고통 받다	
+7	method		(조직적인) 방법 (방식)		22	encourage		용기를 북돋우다. 격려하다.	
+8	movement		"이동, 움직임"		23	reflect		반사하다	
+9	instance		"예, 경우"		24	separate		"분리된, 나누다"	
+10	variety		다양성		25	calm		"차문한, 진정하다"	
+11	match		"성냥, 경기(하다)"		26	polite		예의바른	
+12	figure		"치수, 형태, 이해하다"		27	active		활동적인	
+13	stick		"막대기, 찌르다, 붙이다"		28	disabled		장애가 있는	
+14	beat		"이기다, 때리다, 고동"		29	available		이용할 수 있는	
+15	approach		접근(하다) 		30	merely		(ad)단지	
+1	Freedom		자유		16	survive		생존하다	
+2	tradition		전통		17	satisfy		만족시키다.	
+3	adventure		모험		18	determine		결정하다.	
+4	crime		범죄		19	establish		설립하다	
+5	aspect		면(일면) 		20	advertise		광고하다.	
+6	solution		해결(책) 		21	compare		비교하다.	
+7	account		"계산, 설명하다"		22	recognize		"알아보다, 인정하다"	
+8	block		"막다,구획"		23	fit		"맞다, 건강한"	
+9	range		"범위,-에 걸쳐지다"		24	lower		아래의	
+10	demage		"손해, 손상"		25	commercial		광고의 	
+11	supply		공급(하다)		26	complex		"복잡한, 단지"	
+12	demand		요구(하다)		27	ordinary		"보통의, 평범한"	
+13	lie		"거짓말 하다,눕다"		28	aware		알고있는	
+14	spread		"확산, 퍼지다."		29	responsible		책임감 있는	
+15	feed		먹이다		30	otherwise		(ad) 그렇지 않으면	
+1	youth		젊음		16	gather		모이다. 모으다.	
+2	soil		흑 (토양)		17	manage		관리(하다)	
+3	equipment		"설비, 장비"		18	apply		"지원, 적용(하다)"	
+4	term		"용어, 기간, 조건"		19	replace		대신하다. 교체하다.	
+5	advantage		유리한 점		20	appreciate		"감사하다, 인정하다"	
+6	board		"판, 타다"		21	refer		언급하다	
+7	fuel		연료(를 공급하다)		22	content		내용	
+8	chat		농담(하다)		23	folk		"사람들, 민속의"	
+9	trick		"속임수, 속이다"		24	medium		매체. 중간의	
+10	attack		공격(하다)		25	direct		"직접의, 지시하다"	
+11	attempt		"시도, 시도하다."		26	due		할 예정인	
+12	exchange		"교환, 주고받다."		27	effective		"효과적인, 효력 있는"	
+13	hide		"숨기다, 가죽"		28	entire		전체(전부)의	
+14	gain		"얻다, 이익"		29	familiar		친숙한	
+15	exist		존재하다. 있다.		30	nevertheless		그럼에도 불구하고	
+1	organism		유기체 (생물)		16	succeed		성공하다	
+2	emotion		감정		17	prefer		더 좋아하다.	
+3	belief		"믿음, 신념"		18	predict		예언(예측)하다.	
+4	economy		경제. 절약		19	discuss		토론(논의)하다.	
+5	discovery		발견		20	relate		관련시키다	
+6	rate		"비율, 속도"		21	ignore		무시하다.	
+7	suit		"정장, 적합하다"		22	pollute		오염시키다.	
+8	court		"법정, 경기장"		23	mass		"덩어리, 대중의"	
+9	pressure		"압력, "		24	senior		"상급의, 선배"	
+10	risk		위험(을 무릅쓰다)		25	valuable		값비싼	
+11	progress		"진보, 전진"		26	willing		기꺼이 하는	
+12	escape		"도망,"		27	proper		적절한	
+13	measure		재다. 조치		28	specific		"특정한, 명확한"	
+14	decrease		감소		29	private		개인적인	
+15	seek		"추구하다, 찾다"		30	apart		"떨어져, 떨어져 있는"	
+1	humanity		"인류, 인간성"		16	attend		"출석하다, 집중하다"	
+2	enemy		적		17	preserve		보존(보호)하다.	
+3	grain		곡물.		18	remind		기억나게 하다.	
+4	surface		표면		19	respond		반응하다	
+5	sickness		병		20	argue		"주장하다, 논쟁하다"	
+6	possibility		가능성		21	advise		조언(권고)하다.	
+7	crisis		위기		22	organize		조직(화)하다.	
+8	strategy		전략		23	capital		"수도, 자본, 대문자"	
+9	custom		"관습, 습관 "		24	moral		"도덕, 교훈,"	
+10	origin		"기원, 출신"		25	potential		잠재적인	
+11	introduction		도입		26	pleasant		"쾌적한, 상냥한"	
+12	trust		신뢰(하다)		27	confident		"자신 없는, 확신하는"	
+13	credit		신용. 믿다		28	typical		전형적인	
+14	mention		"언급, 언급하다."		29	solar		태양의	
+15	handle		다루다		30	somewhat		"어떻게 해서든지,"	
+1	element		"요소, 원소"		16	overcome		극복하다.	
+2	entertainment		"오락, 대접"		17	behave		행동하다	
+3	imagination		상상		18	observe		관찰하다.	
+4	failure		실패		19	participate		참가하다	
+5	mine		"광산, 채굴하다"		20	publish		출판하다	
+6	export		"수출, 수출하다."		21	connect		연결하다	
+7	award		"상, 상을 받다"		22	complain		불평(항의)하다.	
+8	battle		"전투, 다툼,"		23	disappoint		실망시키다	
+9	discipline		훈련(하다)		24	current		"현재의, 흐름"	
+10	sort		"종류, 분류하다."		25	worth		"~의 가치가 있는,"	
+11	feature		특징. 중요역할을 하다		26	brief		"짧은, 간단히"	
+12	lack		"부족, 결핍되다."		27	efficient		효율적인	
+13	desire		"욕구, 바라다."		28	mental		정신(마음)의	
+14	regret		후회하다		29	incredible		믿을 수 없는	
+15	freeze		얼(리)다.		30	approximately		대략	
+1	intelligence		지능		16	enable		~할 수 있게 하다.	
+2	insect		곤충		17	attract		끌다. 매혹하다	
+3	automobile		자동차		18	confuse		혼란시키다	
+4	region		지역		19	compete		경쟁하다.	
+5	climate		기후		20	contribute		기부하다 	
+6	protection		보호		21	refuse		거절(거부)하다.	
+7	factor		요인		22	maintain		"유지하다, 주장하다"	
+8	principle		원칙		23	remove		제거하다.	
+9	theory		"이론, 학설"		24	rough		"거친, 대략의"	
+10	labor		"노동, 노동자"		25	enormous		"거대한, 막대한"	
+11	function		"기능, 기능을 하다."		26	constant		끊임없는	
+12	access		접근(하다)		27	realistic		"현실적인, 사실적인"	
+13	alarm		놀라게 하다		28	virtual		가상의	
+14	struggle		"투쟁, 분투"		29	ethical		윤리의	
+15	prove		증명하다		30	regardless		관계없이	
+1	author		저자		16	impress		감명을 주다	
+2	client		의뢰인		17	bother		귀찮게 하다	
+3	victim		희생자		18	embarrass		당황하게 하다.	
+4	disaster		재해		19	injure		다치게 하다	
+5	muscle		근육		20	surround		둘러싸다.	
+6	instrument		"악기, 기구"		21	identify		"확인하다, 공감하다"	
+7	sculpture		조각(품)		22	inclined		~경향이 있다.	
+8	impact		"효과, 영향"		23	novel		소설	
+9	popularity		"인기, 대중성"		24	opposite		"정반대의 (것), "	
+10	mystery		불가사의		25	shy		수줍어하는	
+11	spot		"장서. 지점, 찾아내다"		26	curious		호기심이 강한	
+12	broadcast		"방송, 방송하다"		27	rude 		무례한	
+13	praise		칭찬하다		28	accurate		정확한	
+14	link		연결하다		29	flat		평평한	
+15	steal		훔치다		30	somewhat		다소	
+1	mankind		인류		16	bury		"묻다, 매장하다"	
+2	ancestor		조상		17	celebrate		축하(기념)하다.	
+3	tongue		혀		18	insist		주장하다	
+4	vocabulary		어휘		19	intend		~할 작정이다.	
+5	section		부분		20	indicate		"가르키다, 보여주다"	
+6	mission		임무		21	locate		위치시키다	
+7	row		"줄, 노(를 젓다)"		22	endanger		위험에 빠뜨리다.	
+8	reward		보상(을 하다)		23	narrow		좁은	
+9	wound		"상처, "		24	characteristic		"특성, 특징적인"	
+10	survey		"조사, 조사하다."		25	tough		"거친, 강한"	
+11	contrast		대조(하다)		26	convenient		편리한	
+12	conduct		임무(를 수행하다)		27	significant		"중요한, 의미있는"	
+13	stretch		"잡아 늘이다, 뻗기"		28	independent		독립적인	
+14	release		"풀어주다, 석방"		29	frequent		잦은	
+15	rescue		"구조, 구조하다."		30	barely		"거의-하지 않는, 간신히"	
+1	addict		중독자		16	persuade		설득하다	
+2	soul		영혼		17	convince		확신(시키다)	
+3	personality		"개성, 성격"		18	recommend		"추천하다, 조언하다"	
+4	novel		소설		19	disagree		의견을 달리하다.	
+5	passage		"문장, 통로, 경로"		20	promote		"증진시키다, 승진시키다"	
+6	concept		개념		21	explore		탐사(탐험)하다.	
+7	scale		"저울, 규모, 등급"		22	consume		소비하다	
+8	agenda		"의제,"		23	consist		으로 구성되어지다	
+9	explanation		설명		24	spiritual		"정신, 흑인 영가"	
+10	revolution		혁명		25	military		"군대, 군사의"	
+11	weapon		무기		26	helpless		"희망 없는, 가능성 없는"	
+12	patience		인내심		27	artistic		"예술의, 예술적인"	
+13	fund		자금(을 제공하다)		28	tropical		열대의	
+14	witness		"증인, 목격하다"		29	nuclear		핵의	
+15	stare		빤히 보다.		30	furthermore		게다가	
+1	vehicle		탈것		16	frighten		무섭게 하다.	
+2	atmosphere		"대기, 분위기"		17	obtain		획득하다	
+3	basis		기초		18	extend		연장하다	
+4	edge		가장자리		19	rely		"기대다, 의지하다"	
+5	therapy		치료(법)		20	hire		고용하다.	
+6	insurance		"보험, 보장"		21	announce		발표하다.	
+7	decade		10년		22	represent		"대표하다, 나타내다"	
+8	delight		"기쁨, 기쁘게 하다."		23	analyze		분석하다.	
+9	charge		"요금, 책임(을 지다)"		24	plain		"명백한, 분명한, 평원"	
+10	aim		"목표(을 정하다), "		25	vast		광대한	
+11	request		"요청, 요청하다."		26	suitable		적당한	
+12	comment		논평(하다)		27	critical		"중요한, 위기의"	
+13	debate		"토론, 토론하다."		28	indifferent		무관심한	
+14	defeat		패배(시키다)		29	unexpected		얘기치 않은	
+15	strike		"치다, 파업(을 하다)"		30	aside		"따로 두고, 제쳐놓고"	
+1	astronaut		우주비행사		16	deliver		배달(하다)	
+2	genius		천재(영재)		17	vary		"다르다, 바꾸다"	
+3	charity		"자선, 자선단체"		18	expose		"드러내다, 노출시키다"	
+4	prison		감옥(교도소)		19	react		반응하다.	
+5	series		시리즈(연속물)		20	recover		"회복하다, 되찾다"	
+6	appointment		"약속, 임명"		21	heal		낫다. 치유하다.	
+7	track		"좁은 길, 추적하다"		22	memorize		암기하다.	
+8	code		"법, 암호(화 하다)"		23	bound		"꼭-해야 할, 뛰어오르다"	
+9	lecture		"강의, 강의하다."		24	firm		기업 단단한	
+10	aid		"도움, 돕다(원조하다)"		25	chief		"추장, 중요한"	
+11	harm		"손해, 해치다."		26	precious		"귀중한, 값비싼"	
+12	prejudice		편견(을 가지다)		27	terrific		"멋진, 휼륭한"	
+13	transfer		"옮기다, 이동"		28	practice		"실제의, 실용적인"	
+14	fascinate		매혹하다.		29	appropriate		적절한	
+15	frustrate		좌절시키다		30	seldom		거의-하지 않는	
+1	identity		"신원, 정체성"		16	blame		"비난하다,"	
+2	substance		물질		17	vote		투표하다	
+3	physics		물리학		18	arrange		"준비하다, 배열하다"	
+4	motion		"운동,동작"		19	adapt		"적응하다, 개조하다"	
+5	laboratory		실험(실)		20	combine		결합하다.	
+6	conclusion		결론		21	disturb		방해하다	
+7	phrase		(어)구		22	reveal		드러내다.	
+8	excitement		흥분		23	nominate		지명(임명하다)	
+9	miracle		기적		24	ideal		"이상적인, 이상"	
+10	threat		위협		25	contrary		"반대의, 정 반대의"	
+11	harvest		수확. 수확하다		26	smooth		"매끄러운, 부드러운"	
+12	review		"검토, 복습(하다)"		27	exact		정확한	
+13	grab		"잡아채기, 잡아채다."		28	rare		드문	
+14	puzzle		"퍼즐, 혼란시키다"		29	useless		쓸모없는	
+15	claim		"주장(하다), 요구(하다)"		30	likewise		마찬가지로	
+1	leisure		여가		16	attach		"붙이다, 첨부하다"	
+2	literature		문학		17	select		고르다.	
+3	privacy		사생활		18	amaze		놀라게 하다	
+4	duty		"임무, 세금"		19	discourage		"낙담시키다, 단념시키다"	
+5	poverty		가난		20	relieve		경감(완화)하다.	
+6	policy		정책		21	admit		"인정하다, 허가하다"	
+7	improvement		개선		22	routine		"일과, 일상의"	
+8	expectation		기대		23	former		"이전의, 전자"	
+9	fantasy		"환상, 공상영화"		24	formal		정식의	
+10	destruction		파괴		25	reasonable		합리적인	
+11	comfort		"편안함, 위로(하다)"		26	legal		합법의	
+12	regard		"여기다, 간주하다, 존경"		27	tremendous		굉장한	
+13	swing		흔들리다		28	depressed		우울한	
+14	manufacture		"제조, 제조하다."		29	high-tech		첨단 과학 기술의	
+15	misunderstand		오해하다.		30	accordingly		따라서	
+1	companion		친구		16	bend		구부리다	
+2	destination		목적지		17	annoy		화나게하다	
+3	aptitude		소질		18	invade		침략(침해)하다.	
+4	statue		"지위, 신분"		19	wander		배회하다	
+5	means		"수단, 재산"		20	insure		보장하다	
+6	religion		종교		21	bless		축복하다.	
+7	column		"칼럼, 기둥"		22	afford		할 여유가 있다	
+8	carbon dioxide		이산화탄소		23	lean		"기대다, 마른"	
+9	shelter		"머무르다, 거주지"		24	civil		"시민의, 민간의"	
+10	profit		"이익, "		25	distant		"먼, 거리가 멀리 떨어진"	
+11	poison		독 중독시키다		26	steady		"꾸준한, 안정된"	
+12	anger		"화, "		27	vital		필수의 활기찬	
+13	thrill		흥분(시키다)		28	ordinary		보편적인	
+14	conflict		"갈등, 대립하다"		29	artificial		인공의	
+15	rent		"빌리다, 집세"		30	seemingly		겉보기에	
+1	freshman		신입생		16	crash		"충돌, 충돌하다."	
+2	facility		"시설, 재능"		17	delay		"미루다, 연기시키다"	
+3	peninsular		반도		18	appeal		호소(하다)	
+4	oxygen		산소		19	operate		작동시키다	
+5	layer		층		20	motivate		동기를 부여하다.	
+6	explosion		폭팔		21	qualify		자격을 주다.	
+7	pace		"속도, 한 걸음"		22	apologize		사과하다	
+8	incident		사건 사고		23	awake		"깨어있는, 깨우다"	
+9	photography		사진술		24	representative		"대표자, 대표하는"	
+10	make-up		"화장, 구성"		25	marine		"해병, 해양의"	
+11	guard		"경비원, 지키다"		26	extreme		"극단, 극단적인"	
+12	dust		"먼지, 먼지를 털다."		27	remote		먼	
+13	sacrifice		희생(하다)		28	ultimate		궁극적인	
+14	purchase		"구입, 사다."		29	expressive		표현하는	
+15	construct		"구조물, 건축하다"		30	overnight		"하룻밤동안, 밤새"	
+1	conductor		"지휘자, 전도체"		16	rid		제거하다	
+2	wildlife		야생동물		17	float		뜨다	
+3	summit		정상		18	weigh		무게가-에 이르다	
+4	horizon		"지평선, 수평선"		19	declare		"선언하다, 신고하다"	
+5	clue		실마리		20	capture		"잡다, 포획"	
+6	assignment		"과제, 할당"		21	include		포함하다	
+7	faith		믿음		22	interact		상호작용하다	
+8	hunger		굶주림		23	devote		바치다	
+9	trend		"유행,경향"		24	evil		"악한, 악"	
+10	fault		"잘못, 결함"		25	alternative		"대안, 대체의"	
+11	bomb		폭탄		26	broad		넒은	
+12	institute		"연구소, 시작하다"		27	cruel		잔인한	
+13	display		전시(하다)		28	primary		주요한	
+14	glance		힐끗보다		29	usual		일상적인	
+15	reserve		"예약하다, 비축"		30	undoubtedly		의심 할 바 없는	
+1	scholar		학자		16	deserve		~할 만하다.	
+2	palm		"야자, 손바닥"		17	owe		빚지다	
+3	horn		"뿔, 경적"		18	defend		"방어하다, 변호하다"	
+4	arrow		화살		19	obey		복종하다.	
+5	device		장치		20	examine		시험하다	
+6	mixture		혼합물		21	expand		확장하다.	
+7	highway		고속도로		22	transform		변형시키다.	
+8	habitat		"서식지, 거주지"		23	commit		"저지르다, 약속하다"	
+9	agriculture		"농업, 농학"		24	secure		"지키다, 안전한"	
+10	civilization		문명		25	rapid		매우 빠른	
+11	gravity		중력		26	rural		시골의	
+12	context		"문맥, 맥락"		27	anxious		"열망하는, 걱정하는"	
+13	protest		"항의, 항의하다."		28	ashamed		부끄러운	
+14	sink		싱크대. 가라앉다		29	thoughtful		"사려 깊은, 배려하는"	
+15	swallow		"제비, 삼키다"		30	readily		"쉽게, 기꺼이"	
+1	pole		"기둥, 극"		16	collapse		"붕괴(하다), 붕괴"	
+2	raft		뗏목		17	crawl		기다.	
+3	fare		운임		18	drown		물에 빠져 죽다.	
+4	quantity		did		19	absorb		"흡수하다, 몰두시키다"	
+5	authority		"권위, 정부 당국"		20	propose		"제안, 청혼하다"	
+6	judgement		"판단, 심판"		21	criticize		비난하다	
+7	statement		성명(진술)서		22	differ		다르다.	
+8	tension		긴장		23	infant		"유아, 유아의"	
+9	seal		봉하다 바다표범		24	blank		"텅 빈, 공백의"	
+10	sum		"총계, 요약하다"		25	contemporary		동시대의	
+11	panic		"공황, 공포"		26	inner		안의(내적인)	
+12	trail		흔적 질질 끌다		27	elderly		나이가 지긋한	
+13	exhibit		전시회(하다)		28	gloomy		"우울한, 어두운"	
+14	grant		"인정, 승인(하다)"		29	severe		"심각한, 엄한"	
+15	guarantee		보장(하다)		30	namely		즉	
+1	belonging		"소유물, 소속"		16	yell		외치다.	
+2	evidence		증거		17	chew		씹다.	
+3	fossil		화석		18	pour		"퍼 붓다, 따르다"	
+4	biology		생물학		19	admire		감탄하다.	
+5	semester		학기		20	concentrate		집중하다.	
+6	anxiety		"걱정, 열망"		21	settle		"거주하다, 풀다"	
+7	shame		"수치, 유감"		22	translate		번역하다.	
+8	famine		기근		23	fellow		"동료의, 동료"	
+9	bar		"막대, "		24	instant		"일시적인, 순간"	
+10	ease		"쉬움, 편함, 완화하다"		25	generous		관대한	
+11	suicide		"자살, 자살하다."		26	wealthy		부유한	
+12	shoot		쏘다. 촬영하다		27	visual		시각의	
+13	transport		"운송, 운송하다, 이동하다"		28	previous		이전의	
+14	estimate		"어림잡다, 견적"		29	awful		끔찍한	
+15	lay		"눕히다, 알을 낳다"		30	abruptly		"갑자기, 퉁명스럽게"	
+1	globe		"지구, 구"		16	sweep		"쓸다, 휩쓸다"	
+2	shadow		그림자		17	submit		"제출하다, 복종하다"	
+3	majority		"다수, 과반수"		18	donate		기부하다.	
+4	association		"협회, 관련"		19	define		"정의하다, 규정하다"	
+5	journal		"잡지, 일기"		20	interrupt		가로막다.	
+6	chore		"허드렛일, "		21	pursue		"추구하다, 추적하다"	
+7	procedure		절차		22	evolve		진화하다.	
+8	shortage		부족		23	relative		"상대적인, 친척"	
+9	intention		의도		24	permanent		"영구적인, 퍼머"	
+10	violence		폭력		25	precise		정확한	
+11	string		"끈, 실을 꿰다"		26	brilliant		"똑똑한, 눈부신"	
+12	border		"국경선, 인접하다"		27	luxurious		사치스러운	
+13	dump		"쓰레기장, 버리다"		28	organic		유기체의	
+14	encounter		"만남, 조우하다"		29	royal		왕의	
+15	neglect		"소홀히 하다, 소홀"		30	aloud		(ad) 소리 내어	
+1	ambassador		대사		16	possess		소유하다.	
+2	dirt		"먼지, 때"		17	conserve		"보존하다, "	
+3	property		"재산, 특성"		18	inform		알리다.	
+4	income		수입		19	assume		추정하다	
+5	category		범주		20	emphasize		강조하다.	
+6	circumstance		상황		21	adopt		"채택하다, 입양하다"	
+7	equality		평등		22	pretend		~인 체하다.	
+8	election		선거		23	classic		"고전적인, 고전음악"	
+9	extinction		멸종		24	sufficient		충분한	
+10	remark		"발언, 말하다"		25	strict		엄격한	
+11	deposit		은행에 맡기다		26	festive		축제의	
+12	cycle		순환(하다)		27	dramatic		"극적인, 연극의"	
+13	chase		"뒤쫓다, 추구"		28	delicate		미묘한	
+14	ruin		"망치다, 파산, 폐허"		29	desperate		"필사적인, 절망적인"	
+15	forgive		용서하다		30	scarcely		거의 ~않다.	
+1	priest		성직자		16	oppose		반대하다.	
+2	organ		"장기, 오르간"		17	exhaust		탈진시키다	
+3	telescope		망원경		18	awaken		깨우다	
+4	sword		칼		19	acquire		"얻다, 획득하다"	
+5	welfare		복지		20	occupy		"거주하다, 차지하다"	
+6	tourism		관광 사업		21	found		설립하다.	
+7	tone		"어조, 음조, 색조"		22	employ		고용하다	
+8	theme		주제		23	ritual		"의식, 의례"	
+9	preparation		준비		24	solid		"고체의, 단단한"	
+10	junk		"폐물고물, 내버리다"		25	grand		웅장한	
+11	whistle		"호각, 휘파람을 불다"		26	tragic		비극적인	
+12	orbit		궤도(를 돌다)		27	ridiculous		우스꽝스러운	
+13	stare		"응시, 응시하다."		28	conscious		의식하고 있는	
+14	forbid		금지하다		29	careless		부주의한	
+15	permit		허락하다.		30	alike		"-와 같은, 똑같이"	
+1	crew		승무원		16	pray		빌다.	
+2	expense		비용		17	weaken		약화시키다.	
+3	era		시대		18	toss		가볍게 던지다	
+4	emission		"배기, 방사"		19	simmarize		요약하다.	
+5	disorder		질환		20	quit		그만두다	
+6	conference		회의		21	objective		"목적, 객관적인"	
+7	clay		점토		22	executive		"경영간부, 행정부, 실행의"	
+8	channel		"채널, 경로"		23	household		"가족, 가사의"	
+9	statistics		통계(학)		24	primitive		원시의	
+10	command		명령(하다)		25	passive		수동적인	
+11	pose		"제기하다, "		26	passionate		열렬한	
+12	arrest		"체포, 체포하다."		27	identical		"똑같은, 동일한"	
+13	leap		"뛰다, 도약"		28	fortunate		행운의	
+14	slap		손바닥으로 때리다		29	fashionable		유행하는	
+15	punish		처벌하다.		30	remarkable		주목할 만한	
+1	bush		관목		16	modify		수정(변경하다)	
+2	ash		재		17	calculate		계산하다.	
+3	agency		대행사		18	eliminate		제거하다.	
+4	document		문서		19	illustrate		"묘사하다, 삽화를 넣다"	
+5	tax		세금		20	isolate		고립(격리시키다)	
+6	trial		"재판, 시도"		21	accomplish		이루다.	
+7	occasion		"경우, 행사"		22	distinguish		구별하다.	
+8	capacity		"수용력, 능력"		23	grave		"무덤, 중대한"	
+9	iron		"철, 다리미(질 하다)"		24	bold		"용기 있는, 대담한, "	
+10	stuff		물건		25	guilty		"유죄의, 죄의식을 느끼는"	
+11	import		"수입, 수입하다."		26	considerable		상당한	
+12	venture		모험(을 하다)		27	annual		1년의	
+13	cast		"던지다, 배역9을 하다)"		28	continuous		계속되는	
+14	dislike		"싫어하다, 혐오"		29	accustomed		익숙한	
+15	adjust		"적용하다, 조정하다"		30	ethnic		민족의	
+1	union		연합		16	historic		역사상 중요한	
+2	pottery		도기		17	overweight		과체중의	
+3	remains		유적		18	verbal		"말의,말로하는"	
+4	surgery		외과의사		19	visible		눈에 보이는	
+5	philosophy		철학		20	sensitive		민감한	
+6	myth		신화		21	cheerful		유쾌한	
+7	stock		주식		22	sour		맛이(신)	
+8	pile		"더미, 쌓다"		23	classify		분류하다	
+9	trap		"덫, 가두다"		24	depict		묘사하다	
+10	shade		그늘		25	deny		부정하다	
+11	turn		"곡조, 음조"		26	rob		빼앗다	
+12	resort		휴양지		27	engage		참여(관여)하다	
+13	vacuum		진공(청소기)		28	endure		견디다	
+14	dye		물들이다		29	enhance		강화시키다	
+15	drag		끌다		30	fulfill		완수하다	
+1	supreme		최고의		16	stir		"휘젓다,자극시키다"	
+2	mechanical		기계의		17	corporation		"회사, 법인"	
+3	miserable		비참한		18	ingredient		"재료, 요소"	
+4	bitter		"쓴, 지독한"		19	instinct		본능	
+5	promising		유망한		20	insight		통찰력	
+6	sensible		분별력 있는		21	ethic		윤리(도덕)	
+7	lively		활기찬		22	creation		창조	
+8	liquid		액체(의)		23	landscape		"풍경(화),경치"	
+9	infect		감염시키다		24	craft		"공예, 기술"	
+10	terrify		겁나게 하다		25	coverage		"보도,보상,적용범위"	
+11	scold		비난하다		26	filter		거르다	
+12	strengthen		강화하다		27	merit		장점	
+13	skip		건너뛰다		28	despair		절망	
+14	tug		빨리 끌어당기다		29	assist		돕다	
+15	clap		손뼉을 치다		30	weave		"짜다, 엮다"	
+1	descendent		자손		16	split		쪼개지다	
+2	pupil		학생		17	punch		"펀치,구멍을 뚫다"	
+3	beard		수염		18	rub		문지르다	
+4	committee		위원회		19	install		설치하다	
+5	carbohydrate		탄수화물		20	inspire		영감을 주다	
+6	fortune		"돈, 행운"		21	resist		저항하다	
+7	entrance		출입구		22	starve		굶주리다	
+8	alley		골목길		23	specialize		전공하다	
+9	colony		식민지		24	considerate		이해심 많은	
+10	boundary		경계		25	enthusiastic		열렬한	
+11	arrival		도착		26	continual		계속적인	
+12	consequence		결과		27	complicated		복잡한	
+13	bargain		"싼 물건, 흥정하다"		28	diverse		다양한	
+14	abuse		남용(하다)		29	intensive		집중적인	
+15	roar		으르렁거리다		30	literary		문학의	
+1	harsh		기혹한		16	trait		특성	
+2	register		"등록부, 등록하다"		17	enrich		부유하게하다	
+3	actual		실제의		18	pastime		과거	
+4	ban		금지하다		19	confirm		확인하다	
+5	eager		열망하는		20	volume		음량	
+6	forecast		예보하다		21	emerge		나타나다	
+7	diligent		근면한		22	wilderness		황야	
+8	psychology		심리학		23	depart		출발하다	
+9	capable		할 수 있는		24	wagon		짐마차	
+10	politics		정치학		25	creep		살금살금 기다	
+11	pale		창백한		26	daydream		백일몽	
+12	prospect		전망		27	herd		무리. 떼	
+13	abstract		추상적인		28	drift		떠돌다	
+14	strain		긴장		29	stroke		쓰다듬다	
+15	resident		거주자		30	veterinarian		수의사(=vet)	
+1	minister		장관		16	flash		섬광	
+2	millionaire		백만장자		17	pause		잠시멈추다	
+3	assembly		의회		18	spin		회전	
+4	germ		세균		19	launch		시작하다	
+5	particle		입자		20	adjourn		정회하다	
+6	tide		조류		21	accompany		동반하다	
+7	legend		전설		22	unite		합치다	
+8	masterpiece		걸작		23	decorate		꾸미다	
+9	opinion		의견		24	superior		우월한	
+10	obstacle		장애(물)		25	sorrowful		비통한	
+11	hardship		곤란		26	swift		신속한	
+12	farewell		작별		27	vivid		살아있는	
+13	funeral		장례식		28	valid		유효한	
+14	murder		살인		29	weird		이상한	
+15	burst		터지다		30	urban		도시의	
+1	ecosystem		생태계		16	strive		노력하다	
+2	spacecraft		우주선		17	undergo		겪다	
+3	comet		혜성		18	tolerate		참다	
+4	chemistry		화학		19	smash		박살내다	
+5	cooper		구리		20	spoil		망치다	
+6	drawer		서랍		21	tempt		유혹하다	
+7	council		위원회		22	reject		거절하다	
+8	district		지역		23	uncover		밝히다	
+9	deed		행위		24	initial		처음의	
+10	fame		명성		25	sincere		진실한	
+11	breakdown		붕괴		26	jealous		질투심많은	
+12	dimension		공간		27	optimistic		낙관적인	
+13	flame		불꽃		28	prior		전의	
+14	counsel		조언(하다)		29	occasional		가끔의	
+15	urge		주장하다		30	prone		하기쉬운	
+1	workforce		노동력		16	scratch		긁다	
+2	dynasty		왕조		17	proceed		앞서가다	
+3	monster		괴물		18	resume		이력서	
+4	gym		체육관		19	fasten		단단히 메다	
+5	warehouse		창고		20	lessen		약화시키다	
+6	avenue		거리		21	overlook		간과하다	
+7	volcano		화산		22	overwhelm		압도하다	
+8	basin		"대야,접시"		23	resemble		닮다	
+9	barrier		장벽		24	humble		겸손한	
+10	fee		요금		25	genuine		진실한	
+11	triangle		삼각형		26	graceful		우아한	
+12	fusion		결합		27	extraordinary		특별한	
+13	trigger		방아쇠		28	fertile		비옥한	
+14	vow		맹세		29	exotic		이국적인	
+15	peel		껍질을 벗기다		30	halfway		중간의	
+1	surgeon		외과의사		16	rank		순위	
+2	sympathy		동정		17	hatch		부화하다	
+3	thirst		갈증		18	embrace		껴안다	
+4	territory		영토		19	investigate		조사하다	
+5	reunification		재통일		20	interfere		방해하다	
+6	storage		저장		21	imply		암시하다	
+7	session		회기		22	imitate		흉내 내다	
+8	scholarship		장학금		23	fade		차츰 사라지다	
+9	privilege		특권		24	concrete		구체적인	
+10	rival		경쟁자		25	dynamic		역동적인	
+11	sponsor		후원자		26	bare		벌거벗은	
+12	stem		줄기		27	atomic		원자의	
+13	hook		고리		28	conventional		"전통적인,재래식의"	
+14	harness		마구		29	eternal		영원한	
+15	plot		"줄거리, 음모"		30	automatic		자동의	
+1	nun		수녀		16	approve		승인하다	
+2	mummy		미이라		17	consult		상담하다	
+3	monument		기념비		18	diagnose		진단	
+4	paradise		낙원		19	congratulate		축하하다	
+5	mercy		자비		20	boast		자랑하다	
+6	nightmare		악몽		21	dedicate		헌신하다	
+7	nerve		신경		22	dare		감히-하다	
+8	nutrition		영양분		23	abandon		버리다	
+9	moisture		수분		24	absolute		절대적인	
+10	motorcycle		오토바이		25	intellectual		지적인	
+11	outcome		결과		26	alien		"이방인,낯선"	
+12	millennium		천년		27	loose		느슨한	
+13	arise		일어나다		28	pure		순수한	
+14	meantime		동안에		29	raw		날것의	
+15	pioneer		개척자		30	selfish		이기적인	
+1	historian		역사가		16	worship		숭배(하다)	
+2	geography		지리		17	trace		"흔적, 추적하다"	
+3	hydrogen		수소		18	wreck		망가뜨리다	
+4	lava		옹암		19	nod		고개를 끄덕이다	
+5	livestock		가축		20	tickle		간지르다	
+6	fishery		어업		21	wipe		닦다	
+7	irrigation		관개		22	compose		구성하다	
+8	institution		기관		23	elect		선출하다	
+9	frame		틀		24	spare		여분의	
+10	logic		논리적인		25	steep		가파른	
+11	goodwill		선의		26	spectacular		장관의	
+12	horror		공포		27	prime		주요한	
+13	heritage		유산		28	worthwhile		가치있는	
+14	yield		"산출하다, 양보하다"		29	subjective		주관적인	
+15	idiom		숙어		30	voluntary		자발적인	
+1	empire		제국		16	suck		빨다	
+2	fate		운명		17	sting		찌르다	
+3	feather		깃털		18	scatter		흩어지다	
+4	evolution		진화		19	pronounce		선언하다	
+5	fermentation		발효		20	symbolize		상징하다	
+6	drought		가뭄		21	restrict		제한하다	
+7	excursion		소풍		22	retire		은퇴하다	
+8	encyclopedia		백과사전		23	minimum		최소	
+9	diameter		지름		24	noble		고귀한	
+10	cube		정육면체		25	criminal		범인	
+11	cone		원뿔		26	outstanding		뛰어난	
+12	feedback		피드백		27	outgoing		외향적인	
+13	decline		감소하다		28	partial		부분적인	
+14	strip		벗기다		29	mutural		상호의	
+15	suspect		의심하다		30	overall		전반적으로	
+1	archaeologist		고고학자		16	mislead		잘못믿게하다	
+2	attoney		변호사		17	pat		두드리다	
+3	sleeve		소매		18	paralyze		마비시키다	
+4	caterpillar		애벌레		19	shatter		산산히 부서지다	
+5	cereal		"시리얼,곡물"		20	recite		암송하다	
+6	mud		진흙		21	renew		갱신하다	
+7	cliff		절벽		22	prohibit		금지시키다	
+8	cabin		"집, 선실"		23	adolescent		청소년(의)	
+9	architecture		건축		24	latter		후자의	
+10	democracy		민주주의		25	gigantic		거대한	
+11	administration		관리		26	infinite		무한한	
+12	assumption		가정		27	innocent		무죄의	
+13	burden		부담		28	loyal		충실한	
+14	polish		광내다		29	grateful		감사하는	
+15	sow		씨를 뿌리다		30	domestic		국내의	
+1	spokesperson		대변인		16	crush		으깨다	
+2	sophomore		2학년		17	grin		웃다	
+3	kindergarten		유치원		18	disguise		변장하다	
+4	tribe		부족		19	exclaim		외치다	
+5	breeze		산들바람		20	digest		소화시키다	
+6	scenery		경치		21	impose		부과하다	
+7	wetland		습지		22	interpret		통역하다	
+8	honesty		정직		23	dim		어둑한	
+9	thrift		절약		24	courageous		용기있는	
+10	temper		기질		25	dense		밀집한	
+11	signature		서명		26	countless		셀수없는	
+12	transaction		거래		27	costly		값비싼	
+13	flavor		"맛,풍미"		28	crucial		중요한	
+14	slope		경사로		29	distort		왜곡하다	
+15	cruise		순항하다		30	deadly		치명적인	
+1	freelancer		프리렌서		16	crack		깨지다	
+2	jaw		턱		17	ache		고통	
+3	sermon		설교		18	chant		구호(성가)	
+4	route		경로		19	chop		잘게 자르다	
+5	ranch		목장		20	choke		질식시키다	
+6	rainfall		강우량		21	alter		변하다	
+7	lottery		복권		22	conquer		정복하다	
+8	sequence		연속		23	cheat		속이다	
+9	necessity		필수품		24	faint		흐릿한	
+10	productivity		생산성		25	dull		지루한	
+11	salvation		"구원,구제"		26	competent		유능한	
+12	nap		낮잠		27	dumb		"멍청한,벙어리의"	
+13	prey		먹이		28	vague		모호한	
+14	refund		환불하다		29	urgent		긴급한	
+15	spill		엎지르다		30	temporary		일시적인	
+1	minority		소수		16	spit		침을 뱉다	
+2	pedestrian		보행자		17	sparkle		반짝이다	
+3	physician		의사		18	fold		접다	
+4	frost		서리		19	startle		깜짝놀라게 하다	
+5	glacier		빙하		20	stun		기절시키다	
+6	galaxy		은하		21	tumble		굴러 떨어지다	
+7	molecule		분자		22	soak		담그다	
+8	headline		"머릿기사,표제"		23	stimulate		자극하다	
+9	midst		한가운데		24	slim		날씬한	
+10	guidance		안내		25	spacious		넓은	
+11	grief		슬픔		26	sociable		사교적인	
+12	greed		탐욕		27	stiff		뻣뻣한	
+13	lyric		서정시		28	stubborn		완고한	
+14	stain		얼룩		29	striking		눈에 띄는	
+15	loan		대부금		30	subtle		미묘한	
+1	embryo		(배아)태아		16	seize		장악하다	
+2	fetus		태아		17	slam		꽝하는 소리	
+3	elbow		팔꿈치		18	scrub		문지르다	
+4	flesh		살		19	leak		새다	
+5	fiber		섬유질		20	recall		화상하다	
+6	detergent		세제		21	resolve		해결하다	
+7	feast		축제		22	reproduce		생식(번식)하다	
+8	expedition		탐험		23	mature		성숙한	
+9	exception		예외		24	memorial		기념비	
+10	portion		부분		25	editorial		사설	
+11	dignity		위엄		26	slight		약간	
+12	finance		재정		27	massive		육중한	
+13	drill		연습		28	numerous		수많은	
+14	screw		나사		29	prominent		중요한	
+15	scoop		"퍼내다, 국자"		30	naked		벌거벗은	
+1	colleague		동료		16	insult		모욕하다	
+2	closet		벽장		17	erupt		분출하다	
+3	aircraft		비행기		18	overflow		넘쳐흐르다	
+4	bay		만		19	perceive		인지하다	
+5	voyage		항해		20	demonstrate		"증명하다, 시위하다"	
+6	biotechnology		생명공학		21	dismiss		해고(해산)하다	
+7	budget		예산		22	distribute		나누다	
+8	proof		증거		23	invest		투자하다	
+9	affection		애정		24	foul		"역겨운, 반칙"	
+10	courtesy		예의범절		25	frank		솔직한	
+11	viewpoint		관점		26	magnificent		"웅장한,멋진"	
+12	defect		결점		27	horrible		무시무시한	
+13	admission		인정		28	immediate		"바로, 즉시의"	
+14	compliment		칭찬		29	gradual		점차적인	
+15	nurture		양육하다		30	internal		내부의	
+1	celebrity		유명인		16	grind		갈다	
+2	autograph		"친필,서명"		17	hop		뛰다	
+3	accountant		회계사		18	excel		뛰어나다	
+4	profession		직업		19	flatter		아첨하다	
+5	appliance		가전제품		20	irritate		화내다	
+6	ceiling		천장		21	hesitate		망설이다	
+7	cathedral		대성당		22	hinder		"막다, 방해하다"	
+8	canal		운하		23	improvise		고안하다	
+9	subscription		정기구독(료)		24	fearful		두려운	
+10	criticism		"비난,비평"		25	envious		부러워하는	
+11	aggression		"공격,침략"		26	extensive		광대한	
+12	beam		광선		27	faraway		먼	
+13	charm		매력		28	fluent		유창한	
+14	highlight		강조하다		29	fatal		치명적인	
+15	halt		멈추다		30	edible		식용의	
+1	mammal		포유류		16	drain		물을 빼다	
+2	warrior		전사		17	doom		운명	
+3	republic		공화국		18	collide		충돌하다	
+4	spice		양념		19	contaminate		오염시키다	
+5	lumber		목재		20	detect		탐지하다	
+6	suburb		교외		21	dictate		받아쓰기를 하다	
+7	cemetery		묘지		22	accuse		고소하다	
+8	intersection		교차로(점)		23	evaluate		평가하다	
+9	tuition		수업료		24	deliberate		계획적인	
+10	yearbook		연감		25	principal		"중요한, 교장"	
+11	commerce		상업		26	alert		"경계하는, 주의하는"	
+12	telecommunication		원격통신		27	adequate		적당한	
+13	usage		"사용법, 용례"		28	desirable		바람직한	
+14	glow		빛나다		29	superficial		피상적인	
+15	wrinkle		주름		30	controversial		논란의	
+1	personnel		인원		16	cease		그만두다	
+2	journalist		언론인		17	duplicate		복사하다	
+3	pulse		맥박		18	carve		새기다	
+4	sensation		감각		19	snap		딱 부러지다	
+5	sewage		하수 오물		20	cherish		소중히 하다	
+6	allowance		수당		21	deprive		빼앗다	
+7	altitude		고도		22	designate		임명하다	
+8	phenomenon		현상		23	vocal		목소리	
+9	depression		우울증		24	terminal		말기의	
+10	reconciliation		화해		25	solitary		고독을 즐기는	
+11	spear		창		26	vain		"자만심강한, 헛된"	
+12	shield		방패		27	apparent		분명한	
+13	breed		짝짓기		28	trivial		사소한	
+14	bump		부딪치다		29	vertical		수직의	
+15	spark		일으키다		30	undone		"푼, 마치지 않은"	
+1	dawn		새벽		16	shrug		어깨를 어쓱하다	
+2	lap		무릎		17	sigh		한숨(쉬다)	
+3	liver		간		18	scream		비명(지르다)	
+4	plume		깃털장식		19	blend		섞다	
+5	microscope		현미경		20	await		기다리다	
+6	windshield		차 앞 유리		21	cancel		취소하다	
+7	outlet		배출구		22	correspond		일치하다	
+8	jail		감옥		23	worsen		악화시키다	
+9	monastery		수도원		24	parental		부모의	
+10	corps		"특수부대, 단체"		25	shallow		"얕은, 천박한"	
+11	immigration		"이주, 이민"		26	profound		"깊은, 심오한"	
+12	perimeter		둘레		27	peculiar		특별한	
+13	perspective		관점		28	monotonous		단조로운	
+14	nonsense		의미 없는 말		29	messy		지저분한	
+15	litter		"쓰레기, 어지르다"		30	random		무작위의	
+1	candidate		후보자		16	squeeze		짜(내)다	
+2	gender		성		17	tilt		기울이다	
+3	faucet		수도꼭지		18	stumble		비틀거리다	
+4	bullet		총알		19	anticipate		예상(기대)하다	
+5	equator		적도		20	supervise		감독하다	
+6	hell		지옥		21	violate		위반하다	
+7	congestion		"혼잡, 막힘"		22	transmit		전달하다	
+8	division		"분할, 부서"		23	priceless		매우귀중한	
+9	extent		"정도, 범위"		24	marvelous		휼륭한	
+10	errand		심부름		25	modest		"겸손한, 적당한"	
+11	anniversary		기념일		26	neutral		중립적인	
+12	dismay		낙담시키다		27	literal		문자의	
+13	substitute		대체(하다)		28	ongoing		진행 중인	
+14	transplant		이식하다		29	inclined		경향이 있는	
+15	weep		울다		30	noticeable		"눈에 띄는, 현저한"	
+1	cosmos		우주		16	reform		개혁하다	
+2	counterpart		상대		17	reverse		반대로 하다	
+3	debris		파편		18	kneel		무릎을 꿇다	
+4	mural		벽화		19	shrink		"감소하다, 오그라들다"	
+5	barn		헛간		20	soar		치솟다	
+6	dialect		사투리		21	offend		"위반하다, 감정을해치다"	
+7	constitution		"헌법, 체질"		22	refine		정제하다	
+8	consensus		합의		23	restore		복구하다	
+9	conscience		양심		24	intent		"열중한, 의도"	
+10	disgrace		불명예		25	juvenile		청소년의	
+11	destiny		운명		26	intimate		친밀한	
+12	gospel		"복음서, 신조"		27	furious		격노한	
+13	blossom		"꽃, 꽃피다"		28	fundamental		기본적인	
+14	contract		계약		29	immune		면역(성)의	
+15	shift		옮기다		30	linguistic		언어학의	
+1	ankle		발목		16	quote		인용하다	
+2	core		핵심		17	overhear		엿듣다	
+3	asset		자산		18	shave		면도하다	
+4	artifact		인공유물		19	pierce		관통하다	
+5	workout		운동		20	plunge		"뛰어들다, 빠지다"	
+6	circulation		순환		21	reap		수확하다	
+7	symptom		증세		22	prevail		유행하다	
+8	geometry		기하학		23	perish		"죽다, 사라지다"	
+9	advert		출현		24	outlaw		불법화하다	
+10	reception		환영		25	ceramic		"도예,도자기"	
+11	bias		편견		26	fragile		깨어지기 쉬운	
+12	bud		"싹, 꽃 몽우리"		27	flexible		융통성 있는	
+13	pound		두근거리다		28	harmonious		조화로운	
+14	compound		화합물		29	habitual		습관적인	
+15	audition		오디션		30	destined		하도록 운명 지워진	
+1	refugee		(피)난민		16	graze		풀을 먹다	
+2	souvenir		기념품		17	splash		물을 튀기다	
+3	fountain		"연못, 샘"		18	originate		시작되다	
+4	harbor		항구		19	instruct		지시하다	
+5	scent		향기		20	inherit		상속하다	
+6	blueprint		청사진		21	nourish		영양분을 주다	
+7	affair		"일, 사건"		22	flourish		번영하다	
+8	justice		"정의, 재판"		23	exceed		초과하다	
+9	ambition		야망		24	exclude		제외하다	
+10	meditation		명상		25	wholesale		도매의	
+11	absence		부재		26	chilly		쌀쌀한	
+12	triumph		"승리감,승리하다"		27	dizzy		어지러운	
+13	wind		"바람, 감다"		28	distinct		"다른, 뚜렷한"	
+14	grasp		붙잡다		29	drastic		과감한	
+15	foretell		예견하다		30	fierce		무시무시한	
+1	mechanic		수리공		16	descend		내려가다	
+2	accessory		부속물		17	derive		"끌어내다, 유래하다"	
+3	currency		화폐		18	recur		재발하다	
+4	iceberg		빙산		19	cooperate		협조하다	
+5	thermometer		온도계		20	generalize		일반화하다	
+6	rod		막대		21	foster		"양육(육성)하다,"	
+7	portrait		초상화		22	damp		축축한	
+8	riddle		수수께끼		23	fake		모조품	
+9	shortcut		지름길		24	vegetarian		채식주의자	
+10	tutor		강사		25	cunning		교활한	
+11	draft		"초안(을 만들다), 징병(하다)"		26	disposable		일회용의	
+12	sweat		땀(을 흘리다)		27	lunar		달의	
+13	throne		왕위(에 오르다)		28	arrogant		오만한	
+14	retail		소매(로 팔다)		29	absurd		"부조리한, 어리석은"	
+15	giggle		킥킥웃다		30	beloved		매우 사랑하는	
+1	monk		수사		16	gamble		도박하다	
+2	referee		심판		17	tremble		떨다	
+3	opponent		"상대, 반대자"		18	inhabit		거주하다	
+4	bulb		전구		19	multiply		곱하다	
+5	attic		다락		20	exaggerate		과장하다	
+6	landfill		매립지		21	diminish		줄이다	
+7	mist		안개		22	discard		버리다	
+8	certificate		증명서		23	omit		생략하다	
+9	flaw		결함		24	stable		안정된	
+10	mischief		"장난, 해악"		25	antique		골동품	
+11	paradox		역설		26	cosmetic		화장품	
+12	proportion		비율		27	tender		부드러운	
+13	remedy		치료법		28	decent		적당한	
+14	frown		눈살을 찌푸리다		29	rotten		썩은	
+15	decay		썩다		30	odd		이상한	
+1	bride		신부		16	commute		통근하다	
+2	co-worker		동료		17	divorce		이혼하다	
+3	mustache		수염		18	dwell		거주하다	
+4	weed		잡초		19	bleed		피를 흘리다	
+5	moss		이끼		20	swear		맹세하다	
+6	parcel		소포		21	prescribe		처방하다	
+7	aisle		통로		22	conceal		"감추다, 숨기다"	
+8	biography		생물학		23	confess		자백하다	
+9	debt		"빚, 부채"		24	discriminate		차별하다	
+10	liberty		자유		25	inferior		열등한	
+11	zeal		열의		26	definite		분명한	
+12	superstition		미신		27	rational		이성적인	
+13	flock		"떼, 무리"		28	pessimistic		비관적인	
+14	drip		물방울을 떨어뜨리다		29	disgusting		역겨운	
+15	echo		메아리		30	striped		줄무늬의	
+1	bough		큰 가지		16	bounce		튀기다	
+2	dew		이슬		17	glitter		바짝이다	
+3	beverage		음료		18	bleach		표백하다	
+4	cradle		요람		19	applaud		갈채를 보내다	
+5	cottage		오두막집		20	prosper		번영(번창)하다	
+6	dormitory		기숙사		21	comprehend		이해하다	
+7	astronomy		천문학		22	constitute		"구성하다, 로 여기다"	
+8	missile		미사일		23	suspend		일시 중지하다	
+9	compensation		보상		24	leftover		남은 음식	
+10	criterion		기준		25	obvious		분명한	
+11	blunder		큰 실수		26	abnormal		비정상적인	
+12	scandal		추문		27	awkward		어색한	
+13	suspicion		의심		28	holy		신성한	
+14	dispute		논쟁(하다)		29	witty		재치 있는	
+15	bang		꽝 닫다		30	bald		대머리의	
+1	niece		조카딸		16	yawn		하품(하다)	
+2	bridegroom		신랑		17	trim		깍아 다듬다	
+3	casualty		희생자		18	withdraw		"철수하다, 인출하다"	
+4	beast		짐승		19	sprain		삐다	
+5	ecology		생태학		20	hasten		서두르다	
+6	tag		꼬리표		21	cope		대처하다	
+7	interval		간격		22	inquire		문의하다	
+8	margin		"여백, 가장자리"		23	certify		증명하다	
+9	checkup		건강검진		24	distract		주의를 딴데로 돌리다	
+10	publicity		"홍보, 주목"		25	oval		타원형(의)	
+11	coincidence		일치		26	ripe		익은	
+12	contradiction		"모순, 반박"		27	resentful		분노한	
+13	caution		"주의, 조심"		28	probable		가능성 높은	
+14	revenge		복수		29	athletic		운동선수	
+15	sneeze		재치기 하다		30	checked		체크무늬의	
+1	spectacle		관객		16	retreat		후퇴하다	
+2	auditorium		청중		17	tease		놀리다	
+3	patriot		애국자		18	swell		부풀리다	
+4	peasant		농부		19	dip		살짝 담그다	
+5	meadow		초지		20	astonish		놀라게 하다	
+6	hay		건초더미		21	vomit		토하다	
+7	kettle		주전자		22	contend		경쟁하다	
+8	baggage		수화물		23	justify		정당화시키다	
+9	basement		기초		24	idle		한가한	
+10	enrollment		등록		25	radical		"근본적인, 급진적인"	
+11	compassion		동정		26	bilingual		2개 국어의	
+12	moderation		절제		27	gorgeous		아름다운	
+13	reputation		평판		28	solemn		엄숙한	
+14	scarcity		부족		29	homesick		향수병의	
+15	switch		전환(하다)		30	ironic		반어적인	
+1	thorn		가시		16	notify		통고하다	
+2	banner		현수막		17	converse		대화하다	
+3	pavement		포장도로		18	confront		직면하다	
+4	outlook		전망		19	convert		전환시키다	
+5	conviction		신념		20	revise		개정하다	
+6	ignorance		무지		21	dominate		지배하다	
+7	bliss		기쁨		22	sustain		"유지하다, 상처를 입다"	
+8	gratitude		감사		23	fluid		액체	
+9	boredom		지루함		24	liberal		자유로운	
+10	inflation		인플레이션		25	utmost		최대의	
+11	foam		거품		26	baggy		헐렁한	
+12	shed		흘리다		27	allergic		알레르기의	
+13	confine		한정시키다		28	oral		구두의	
+14	diabetes		당뇨병		29	coherent		조리있는	
+15	flutter		퍼덕거리다		30	skeptical		비판적인	

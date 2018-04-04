@@ -1,0 +1,7 @@
+print("Enter your name:")
+name = input()
+print("Hi %s how r u today?" %name)
+print("Hi", name, "how r u?")
+print("Hi", name, "how old r u?")
+age = input()
+print("10 years later", name, "will be", int(age)+10, "years old.")
